@@ -1,0 +1,1 @@
+javaw -cp "lib/*;conf;./*" com.baseproject.Application
